@@ -1,16 +1,16 @@
 ```text
                        .,,uod8B8bou,,.
               ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
-         ,=m8BBBBBBBBBBBBBBBRPFT?!||||||||||||||
-         !...:!TVBBBRPFT||||||||||!!^^""'   ||||
-         !.......:!?|||||!!^^""'            ||||
-         !.........||||                     ||||
-         !.........||||  ##                 ||||
-         !.........||||                     ||||
-         !.........||||                     ||||
-         !.........||||                     ||||
-         !.........||||                     ||||
-         `.........||||                    ,||||
+         ,=m8BBBBBBBBBBBBBBBRPFT?!||||||||||||||                        About me
+         !...:!TVBBBRPFT||||||||||!!^^""'   ||||                                  
+         !.......:!?|||||!!^^""'            ||||                        > Computer Science student interested   
+         !.........||||                     ||||                        in software engineering and programming 
+         !.........||||  ##                 ||||                                
+         !.........||||                     ||||                        > I enjoy building things, learning new technologies,      
+         !.........||||                     ||||                        and improving my skills through hands-on projects
+         !.........||||                     ||||                        
+         !.........||||                     ||||                        
+         `.........||||                    ,||||                         
           .;.......||||               _.-!!|||||
    .,uodWBBBBb.....||||       _.-!!|||||||||!:'
 !YBBBBBBBBBBBBBBb..!|||:..-!!|||||||!iof68BBBBBb....
@@ -30,3 +30,16 @@
                     `!9899fT|!^"'
                       `!^"'
 ```
+## Tech Stack:
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=py,java,html,css,js,git,github" />
+  </a>
+</p>
+
+## Socials:
+<p align="center">
+  <a href="https://www.linkedin.com/in/alifad/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
