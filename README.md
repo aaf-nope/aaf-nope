@@ -36,10 +36,3 @@
     <img src="https://skillicons.dev/icons?i=py,java,html,css,js,git,github" />
   </a>
 </p>
-
-## Socials:
-<p align="center">
-  <a href="https://www.linkedin.com/in/alifad/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
