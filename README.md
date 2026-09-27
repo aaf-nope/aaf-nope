@@ -33,6 +33,6 @@
 ## Tech Stack:
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=py,java,html,css,js,git,github" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,java,git,github" />
   </a>
 </p>
