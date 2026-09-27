@@ -1,13 +1,13 @@
 ```text
                        .,,uod8B8bou,,.
               ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
-         ,=m8BBBBBBBBBBBBBBBRPFT?!||||||||||||||                        About me
+         ,=m8BBBBBBBBBBBBBBBRPFT?!||||||||||||||              About me
          !...:!TVBBBRPFT||||||||||!!^^""'   ||||                                  
-         !.......:!?|||||!!^^""'            ||||                        > Computer Science student interested   
-         !.........||||                     ||||                        in software engineering and programming 
+         !.......:!?|||||!!^^""'            ||||              > Computer Science student interested   
+         !.........||||                     ||||              in software engineering and programming 
          !.........||||  ##                 ||||                                
-         !.........||||                     ||||                        > I enjoy building things, learning new technologies,      
-         !.........||||                     ||||                        and improving my skills through hands-on projects
+         !.........||||                     ||||              > I enjoy building things, learning new technologies,      
+         !.........||||                     ||||              and improving my skills through hands-on projects
          !.........||||                     ||||                        
          !.........||||                     ||||                        
          `.........||||                    ,||||                         
