@@ -6,8 +6,8 @@
          !.......:!?|||||!!^^""'            ||||              > Computer Science student interested   
          !.........||||                     ||||              in software engineering and programming 
          !.........||||  ##                 ||||                                
-         !.........||||                     ||||              > I enjoy building things, learning new technologies,      
-         !.........||||                     ||||              and improving my skills through hands-on projects
+         !.........||||                     ||||              > I enjoy learning new things, and improving my skills    
+         !.........||||                     ||||              by building projects
          !.........||||                     ||||                        
          !.........||||                     ||||                        
          `.........||||                    ,||||                         
