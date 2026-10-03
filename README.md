@@ -6,7 +6,7 @@
          !.......:!?|||||!!^^""'            ||||              > Computer Science student interested   
          !.........||||                     ||||              in software engineering and programming 
          !.........||||  ##                 ||||                                
-         !.........||||                     ||||              > I enjoy learning new things, and improving my skills    
+         !.........||||                     ||||              > I enjoy learning new things and improving my skills    
          !.........||||                     ||||              by building projects
          !.........||||                     ||||                        
          !.........||||                     ||||                        
